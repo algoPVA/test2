@@ -4,7 +4,7 @@ from handler import start_handler
 from callback_handler import vibor,keybord_handler
 from aiogram.filters import Command
 
-TOKEN = '6348032181:AAGh3nrYTBpO_03WNaNFizomgKXqlHzVJvY'
+TOKEN = '6321316220:AAG1I1kpfOoJGnJU7L03ZHaoSntLRIZS2BI'
 
 async def start():
 
